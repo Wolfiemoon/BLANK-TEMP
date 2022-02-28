@@ -1,3 +1,2 @@
-This Is a project for testing.
-I do not own any of the sprites or music
-Thank you!
+This is a blank template including p5matter,p5play, and p5sound
+I dont own any files in the folder
